@@ -1,6 +1,6 @@
 # Fundamentos de Programación · TDS-002
 
-**Nombre:** Marcos Diaz · **Matrícula:** 2026-0908 · **Sección:** 5
+**Nombre:** Marcos Diaz · **Matrícula:** 2026-0928 · **Sección:** 5
 
 | #   | Tema                              | Estado      |
 | --- | --------------------------------- | ----------- |
@@ -9,5 +9,5 @@
 | 03  | Programas secuenciales            | ✔           |
 | 04  | Calculos y formato de salida      | ✔           |
 | 05  | Primer parcial unidad 1, 2 y 3    | ✔           |
-| 06  | Desiciones: if, switch y ternario | en progreso |
+| 06  | Desiciones: if, switch y ternario | ✔           |
 | 07  | Ciclos: While, do-while y for     | en progreso |
