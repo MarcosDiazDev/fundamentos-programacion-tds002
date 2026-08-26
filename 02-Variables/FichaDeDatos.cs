@@ -1,7 +1,7 @@
 ﻿/* 
  * Descripción: Ejercicios de variables y operadores
- * Nombre: [Tu nombre]
- * Fecha: [Fecha de creación]
+ * Nombre: Marcos Diaz
+ * Fecha: 26/08/2026
  */
 
 // Use el  /n para dar un salto de línea y separar la sección de menú del resto del código

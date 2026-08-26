@@ -1,7 +1,7 @@
 ﻿/*
 * Nombre: Marcos Diaz
 * Fecha: 25/08/2026
-* Descripción: Programa que utiliza condicionales para 
+* Descripción: Programa que utiliza condicionales para ver si las aprobaste segun tu calificacones, pedir en una cafeteria y otros usos
 */
 
 Console.WriteLine("\nIngrese un número:");
