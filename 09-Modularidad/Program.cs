@@ -207,7 +207,7 @@ double LeerNotaValida()
         }
         catch (FormatException)
         {
-            // El catch atrapa el error si el usuario escribe algo que no es un numero, y el programa no se cae
+            // El catch atrapa el error si el usuario escribe algo que no es un numero, y el programa no se caee
             Console.WriteLine("Entrada inválida, escriba un número.");
         }
 
