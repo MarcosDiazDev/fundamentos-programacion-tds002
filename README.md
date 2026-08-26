@@ -12,5 +12,5 @@
 | 06  | Desiciones: if, switch y ternario  | ✔           |
 | 07  | Ciclos: While, do-while y for      | ✔           |
 | 08  | Metodos                            | ✔           |
-| 09  | Modularidad y proyectos con ciclos | en progreso |
+| 09  | Modularidad y proyectos con ciclos | ✔           |
 | 10  | Segundo parcial unidad 4 y 5       | en progreso |
