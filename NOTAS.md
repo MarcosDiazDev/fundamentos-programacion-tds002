@@ -29,3 +29,9 @@ Devuelve el **residuo** de una división entera (no el cociente):
 int residuo = 7 % 2; // residuo vale 1
 
 Se usa para saber si un número es par/impar (`n % 2 == 0`), o para convertir unidades, como sacar los segundos sobrantes después de calcular horas y minutos
+
+## `while` vs `for` vs `do-while`
+
+- **`for`**: cuando sé cuántas veces se repite. `for (int i = 0; i < 5; i++) { ... }`
+- **`while`**: cuando no sé cuántas veces, y puede que ni una. `while (saldo > 0) { saldo -= 100; }`
+- **`do-while`**: como `while`, pero se ejecuta al menos una vez. Ideal para menús. `do { MostrarMenu(); } while (opcion != "salir");`
